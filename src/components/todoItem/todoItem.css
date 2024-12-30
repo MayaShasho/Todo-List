@@ -1,0 +1,46 @@
+.todoItem {
+    border: 1px solid #e9c68c;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    align-self: center;
+    width: 100%;
+    border-radius: 11px;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.editableInput {
+    all: unset;
+    font-size: large;
+    width: inherit;
+    padding: inherit;
+    padding-left: 10px;
+    flex: 1;
+
+    &:focus {
+        border: 0;
+        outline: none;
+    }
+}
+
+
+.checkBoxInput {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    accent-color: #5da35d;
+}
+
+.xButton,
+.editButton {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.editButton {
+    width: 40px;
+    height: 30px;
+}

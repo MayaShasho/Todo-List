@@ -1,3 +1,5 @@
+import './todoItem.css';
+
 import React, { useRef, useState } from 'react';
 
 function TodoItem({ task, deleteTask, toggleCompleted }) {

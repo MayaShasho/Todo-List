@@ -1,5 +1,5 @@
 import React from 'react';
-import TodoItem from './TodoItem';
+import TodoItem from '../todoItem/todoItem';
 
 function List({ isToggled, tasks, deleteTask, toggleCompleted }) {
     if (!tasks.length) {
