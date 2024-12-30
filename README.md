@@ -1,11 +1,10 @@
 # Todo List Project
 
-Welcome to the Todo List Project! This application helps you manage your tasks effectively.
+Welcome to the `Todo List Project!` This application helps you manage your tasks effectively.
 
-## Live Demo
+## Live Demo: [View the Todo List App](https://mayashasho.github.io/Todo-List/)
 
-Click the link below to view the live version of the Todo List:
-[View Todo List App](https://mayashasho.github.io/Todo-List/)
+✅ Click the link above to try out the live version of the app!
 
 # Getting Started with Create React App
 
