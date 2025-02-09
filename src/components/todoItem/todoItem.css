@@ -2,20 +2,14 @@
     border: 1px solid #e9c68c;
     display: flex;
     align-items: center;
-<<<<<<< HEAD
-    justify-content: space-around;
     align-self: center;
     width: 100%;
-    border-radius: 11px;
     border-width: 2px;
     padding: 10px;
-=======
     justify-content: space-between;
     width: 100%;
     border-radius: 11px;
-    padding: 10px;
     min-width: fit-content;
->>>>>>> 04c0356 (Initial commit after git init)
 }
 
 .editableInput {
@@ -51,8 +45,7 @@
 .editButton {
     width: 40px;
     height: 30px;
-<<<<<<< HEAD
-=======
+
 }
 
 
@@ -69,5 +62,4 @@
     .editableInput {
         font-size: medium;
     }
->>>>>>> 04c0356 (Initial commit after git init)
 }

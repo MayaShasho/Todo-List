@@ -49,8 +49,6 @@ p {
 .noTaskMessage {
   font-size: medium;
   opacity: 0.4;
-<<<<<<< HEAD
-=======
 }
 
 @media (max-width: 768px) {
@@ -74,6 +72,4 @@ p {
       padding: 10px;
     }
   }
-
->>>>>>> 04c0356 (Initial commit after git init)
 }
