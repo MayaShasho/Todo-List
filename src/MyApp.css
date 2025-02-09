@@ -49,4 +49,31 @@ p {
 .noTaskMessage {
   font-size: medium;
   opacity: 0.4;
+<<<<<<< HEAD
+=======
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 80vw;
+  }
+
+  h1 {
+    font-size: xx-large;
+    padding: 20px;
+  }
+
+  p {
+    font-size: medium;
+  }
+
+  body {
+
+    &.darkMode,
+    &.lightMode {
+      padding: 10px;
+    }
+  }
+
+>>>>>>> 04c0356 (Initial commit after git init)
 }

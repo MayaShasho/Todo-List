@@ -13,7 +13,11 @@
     border: 1px solid #e9c68c;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     justify-content: space-around;
+=======
+    justify-content: space-between;
+>>>>>>> 04c0356 (Initial commit after git init)
     align-self: center;
     width: 100%;
     padding: 12px;
@@ -34,4 +38,22 @@ input:focus {
 
 .switcherUncompletedTasks {
     margin-right: auto;
+<<<<<<< HEAD
+=======
+}
+
+@media (max-width: 768px) {
+    .userInput {
+        padding: 10px;
+        font-size: medium;
+    }
+
+    .addTaskButton {
+        font-size: medium;
+    }
+
+    .todoList {
+        gap: 15px;
+    }
+>>>>>>> 04c0356 (Initial commit after git init)
 }
