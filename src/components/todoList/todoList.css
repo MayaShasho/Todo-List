@@ -44,6 +44,9 @@ input:focus {
 
     .addTaskButton {
         font-size: medium;
+        color: black;
+        border-radius: 11px;
+
     }
 
     .todoList {
